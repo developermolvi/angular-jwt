@@ -1,6 +1,6 @@
 # angular-jwt
 
-This library will help you work with [JWTs](http://jwt.io/).
+This library will help you work with [JWTs](http://jwt.io/) for [this website](https://vacuumvirtuoso.com/).
 
 ## Key Features
 
